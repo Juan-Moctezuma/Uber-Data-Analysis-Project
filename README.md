@@ -9,6 +9,9 @@ What is the Uber Data Analysis Project?
 This project is based entirely on the results of an 8-month period project in which a simple survey along with the recorded data from an independent contractor’s mobile application (Uber partner/driver app) brought together my study’s main dataset.
 This experiment examines and discusses people’s opinion about a specific location, and points out the external factors that could highly influence their view. I directly performed a two-question survey to passengers and wrote down the results after completing trips requested by an Uber user.
 
+### Presentation Link
+CLICK HERE: https://github.com/Juan-Moctezuma/Uber-Data-Analysis-Project/blob/master/Uber_Data_Analysis_Presentation.pdf
+
 ### Tableau Report Link
 Tableau Link: https://public.tableau.com/profile/juan.moctezuma.flores#!/vizhome/UberDataAnalysis2017-2018/PassengerSurveyResponsesSanDiegosAppealingAspects_1
 
